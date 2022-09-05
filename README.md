@@ -1,1 +1,1 @@
-# Telecom-churning
+Predicting churn for a telecom company so it can can effectively focus a customer retention marketing program (e.g. a special offer) or improve certain aspects based on the model to the subset of clients which are most likely to change their carrier. Therefore, the “churn” column is chosen as target and the following predictive analysis is a supervised classification problem.
